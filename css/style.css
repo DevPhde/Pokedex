@@ -32,12 +32,18 @@ fieldset {
 }    
 
 .div_pokemon {
+    background-image: url('../images/background.jpg');
+    background-size: 320px;
     text-align: center;
     width: 200px;
     height: 200px;
     border: solid rgb(15, 3, 3);
     padding: 50px;
     background-color: white;
+}
+
+.pokemon__image {
+    padding-top: 6.5vh;
 }
 p {
     font-size: 10px;
