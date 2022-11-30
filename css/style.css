@@ -8,28 +8,29 @@
 }
 
 body {
-    text-align: center;
     background: linear-gradient(#6ab7f5, #fff);
     min-height: 100vh;
+    margin-top: 2%;
+    text-align: center;
+
 }
 
 main {
-    /* background-color: black; */
-    display: inline;
-    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+
 }
 
-legend{
-
-    /* color: white; */
-}
 fieldset {
     background-color: rgb(238, 71, 65);
     border-radius: 10%;
     display: inline;
     padding: 20px 20px 80px 20px;
     
-}    
+}
+.ability {
+    width: 30%;
+}
 
 .div_pokemon {
     background-image: url('../images/background.jpg');
@@ -47,7 +48,6 @@ fieldset {
 }
 p {
     font-size: 10px;
-    margin-bottom: ;
 }
 .input_name-id {
     margin-top: 20px;

@@ -11,8 +11,11 @@
 </head>
 
 <body>
-    <main>
+    <header>
         <h2>Pokédex</h2>
+    </header>
+    <main>
+        
         <fieldset>
             <div class="div_pokemon">
                 <img src="" alt="" class="pokemon__image">
@@ -24,12 +27,17 @@
                 </h5>
             </section>
             <form class="form">
-                <input type="search" class="input_name-id" placeholder="Name or Number" required>
+                <input type="search" class="input_name-id" placeholder="Name or Number">
+                <p></p>
             </form>
             <div class="buttons">
                 <input type="button" class="btn btn-prev" value="◀">
                 <input type="button" class="btn btn-next" value="▶">
             </div>
+        </fieldset>
+        <fieldset class="ability">
+            <h3>Skills</h3>
+            <div class="skills"></div>
         </fieldset>
     </main>
 
