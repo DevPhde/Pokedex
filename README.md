@@ -1,5 +1,5 @@
 # Pokédex
-Versão 1.2 Pokédex
+Versão 2.0 Pokédex
 
 
 ## Projeto
@@ -14,4 +14,4 @@ Versão 1.2 Pokédex
 <br>
 
 ## UI do Projeto
-<img align="center" height="300em" alt="img projeto" src="https://cdn.discordapp.com/attachments/1020599652724248672/1046975183036100640/image.png">
+<img align="center" height="300em" alt="img projeto" src="https://cdn.discordapp.com/attachments/1020599652724248672/1047515747947122748/image.png">
